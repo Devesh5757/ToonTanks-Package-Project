@@ -5,3 +5,7 @@
 To test or play the project, please download the ToonTanks0.2.rar project file. You can find the raw file downloading option [here](https://media.githubusercontent.com/media/Devesh5757/ToonTanks-Package-Project/main/ToonTanks0.2.rar?download=true&token=AVL56IN2GJRFCATEZQHVOQDGDOFDW).
 
 Once downloaded, extract the files and Run ToonTanks.exe.
+
+# ToonTanks Gameplay Preview
+Watch this video to see ToonTanks in action! Experience the thrill of commanding your cartoon tank, navigating colorful landscapes, and strategically aiming your turret to take down enemy turrets. Get a glimpse of the action-packed adventure that awaits you in ToonTanks!
+
